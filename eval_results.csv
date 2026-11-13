@@ -1,0 +1,5 @@
+variant (genres excluded from features),share@10,jaccard@10
+Random baseline,0.5058,0.16696366522366524
+"Overview only, TF-IDF",0.6702,0.27902507936507936
+"Overview+keywords+cast+director, Count",0.6926,0.3020998412698413
+"Overview+keywords+cast+director, TF-IDF",0.7208,0.31926444444444446
