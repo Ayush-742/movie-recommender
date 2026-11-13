@@ -2,7 +2,9 @@
 
 A content-based movie recommender. Pick a movie and get the most similar ones, with a clear reason for each match (shared genres, director, cast, themes). Built with Pandas, NumPy and Scikit-learn on the TMDB 5000 Movies dataset, with a monochrome Streamlit interface.
 
-> Add a screenshot or GIF here: `![demo](assets/demo.png)`
+![demo](assets/demo.png)
+
+**Live demo:** https://movie-recommender-ayush-1.streamlit.app/
 
 ## How it works
 
@@ -66,7 +68,6 @@ python evaluate.py
 
 ## Project structure
 
-## Project structure
 
 ```
 build_model.py   Load and clean data, build features, save artifacts
